@@ -1,1 +1,4 @@
-Dette er et projekt for git test
+Dette er et projekt for git test 
+
+test
+
